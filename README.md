@@ -1,4 +1,6 @@
-Project Overview:
+Project Overview
+
+
 The Coffee Shop Management System is a web-based application built using HTML, CSS, and JavaScript, with the incorporation of Bootstrap elements to enhance the presentation and user experience. This system is designed to streamline the management and operation of a coffee shop, providing functionalities for various tasks such as order management, inventory tracking, and customer interaction.
 
 Integration with Laravel:
