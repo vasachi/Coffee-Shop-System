@@ -11,5 +11,3 @@ Key Features:
 - Inventory Tracking: Provides tools for monitoring and managing inventory levels, ensuring that the coffee shop remains well-stocked with necessary supplies.
 - Customer Interaction: Incorporates features for engaging with customers, such as feedback collection and personalized promotional offers.
 
-Usage and Installation:
-To make use of the Coffee Shop Management System within a Laravel application, simply integrate the provided templates and scripts into the appropriate views and routes within the Laravel project. Detailed installation and usage instructions can be found in the accompanying documentation.
